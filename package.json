@@ -2,7 +2,7 @@
   "name": "mi-by-vue",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "liutao <947809647@qq.com>",
+  "author": "wangrui <836763392@qq.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
